@@ -1,0 +1,12 @@
+{
+  "name": "proyecto_evaluacionymejora",
+  "version": "1.0.0",
+  "description": "Inicio de Usar Github para poder subirlo en proyecto Integrador",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
